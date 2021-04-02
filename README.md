@@ -1,9 +1,8 @@
 # Paint-Application
 A Simple Paint-Application written in Java utilizing the JavaFX Graphics Template
 
-[1] Download the JavaFX Graphics Template (javafx-sdk-16)
-
-Can be found at: https://gluonhq.com/products/javafx/
+<JavaFX Setup>
+[1] Download the JavaFX Graphics Template (javafx-sdk-16) : https://gluonhq.com/products/javafx/
 
 [2] Place it in the same folder as 'src' is in
 
@@ -11,3 +10,6 @@ Can be found at: https://gluonhq.com/products/javafx/
 
 [4] As File Explorer pops up, direct yourself to javafx-sdk-16\lib, hover and select all of the Jar Files
 ![](images/image1.png)
+
+<Visual Studio Code Setup - JavaFX Link>
+[1] Inside the .vscode folder, paste this under the request tab : "vmArgs": "--module-path javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
