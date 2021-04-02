@@ -12,4 +12,5 @@ A Simple Paint-Application written in Java utilizing the JavaFX Graphics Templat
 ![](images/image1.png)
 
 <Visual Studio Code Setup - JavaFX Link>
-[1] Inside the .vscode folder, paste this under the request tab : "vmArgs": "--module-path javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
+  
+[!] Inside the .vscode folder, paste this under the request tab : "vmArgs": "--module-path javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
