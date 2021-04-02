@@ -1,5 +1,6 @@
 # Paint-Application
 A Simple Paint-Application written in Java utilizing the JavaFX Graphics Template
+![](images/PaintApp.png)
 
 <JavaFX Setup>
 [1] Download the JavaFX Graphics Template (javafx-sdk-16) : https://gluonhq.com/products/javafx/
